@@ -1,2 +1,0 @@
-# CarToonify
-AI PROJECT
