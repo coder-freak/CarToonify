@@ -20,7 +20,7 @@ import gc
 import huggingface_hub
 import os
 
-MODEL_REPO = 'PKUWilliamYang/VToonify'
+MODEL_REPO = 'coder-freak/CarToonify'
 
 class Model():
     def __init__(self, device):
